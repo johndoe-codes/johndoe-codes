@@ -19,11 +19,5 @@ I love experimenting, learning new things, and sharing what I build here on GitH
 - Git & GitHub  
 - Building small practice projects  
 
----
-
-### 🌐 Find Me Online
-[![Website](https://img.shields.io/badge/Portfolio-to.site%2Fjohndoe-blue?logo=githubpages&logoColor=white)](https://to.site/johndoe)
-
----
 
 > ✨ *Learning one project at a time.*
